@@ -12,6 +12,6 @@ Comment,Designator,Footprint,LCSC
 "1k","R2","Resistor_SMD:R_0402_1005Metric","C11702"
 "1M","R6","Resistor_SMD:R_0402_1005Metric","C26083"
 "B3U-1000P","RST1,SW1","SW_B3U-1000P","C231329"
-"E73-2G4M08S1CX","U1","snapeda:E73-2G4M08S1C","C2764963"
+"E73-2G4M08S1C","U1","snapeda:E73-2G4M08S1C","C356849"
 "SHTC3","U2","kicad:Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm","C194656"
 "32.768kHz","Y1","Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm","C32346"
